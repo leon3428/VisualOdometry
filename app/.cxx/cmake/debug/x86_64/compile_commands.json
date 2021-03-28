@@ -1,0 +1,49 @@
+[
+{
+  "directory": "/home/leon3428/dev/VisualOdometry/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/leon3428/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android26 --gcc-toolchain=/home/leon3428/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/leon3428/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dnative_lib_EXPORTS -I/home/leon3428/dev/OpenCV-android-sdk/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -frtti -fexceptions -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/native-lib.cpp.o -c /home/leon3428/dev/VisualOdometry/app/src/main/cpp/native-lib.cpp",
+  "file": "/home/leon3428/dev/VisualOdometry/app/src/main/cpp/native-lib.cpp"
+},
+
+{
+  "directory": "/home/leon3428/dev/VisualOdometry/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/leon3428/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android26 --gcc-toolchain=/home/leon3428/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/leon3428/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dnative_lib_EXPORTS -I/home/leon3428/dev/OpenCV-android-sdk/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -frtti -fexceptions -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/camera_preview.cpp.o -c /home/leon3428/dev/VisualOdometry/app/src/main/cpp/camera_preview.cpp",
+  "file": "/home/leon3428/dev/VisualOdometry/app/src/main/cpp/camera_preview.cpp"
+},
+
+{
+  "directory": "/home/leon3428/dev/VisualOdometry/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/leon3428/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android26 --gcc-toolchain=/home/leon3428/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/leon3428/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dnative_lib_EXPORTS -I/home/leon3428/dev/OpenCV-android-sdk/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -frtti -fexceptions -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/camera_manager.cpp.o -c /home/leon3428/dev/VisualOdometry/app/src/main/cpp/camera_manager.cpp",
+  "file": "/home/leon3428/dev/VisualOdometry/app/src/main/cpp/camera_manager.cpp"
+},
+
+{
+  "directory": "/home/leon3428/dev/VisualOdometry/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/leon3428/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android26 --gcc-toolchain=/home/leon3428/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/leon3428/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dnative_lib_EXPORTS -I/home/leon3428/dev/OpenCV-android-sdk/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -frtti -fexceptions -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/interfaces.cpp.o -c /home/leon3428/dev/VisualOdometry/app/src/main/cpp/interfaces.cpp",
+  "file": "/home/leon3428/dev/VisualOdometry/app/src/main/cpp/interfaces.cpp"
+},
+
+{
+  "directory": "/home/leon3428/dev/VisualOdometry/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/leon3428/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android26 --gcc-toolchain=/home/leon3428/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/leon3428/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dnative_lib_EXPORTS -I/home/leon3428/dev/OpenCV-android-sdk/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -frtti -fexceptions -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/calibration_jni.cpp.o -c /home/leon3428/dev/VisualOdometry/app/src/main/cpp/calibration_jni.cpp",
+  "file": "/home/leon3428/dev/VisualOdometry/app/src/main/cpp/calibration_jni.cpp"
+},
+
+{
+  "directory": "/home/leon3428/dev/VisualOdometry/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/leon3428/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android26 --gcc-toolchain=/home/leon3428/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/leon3428/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dnative_lib_EXPORTS -I/home/leon3428/dev/OpenCV-android-sdk/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -frtti -fexceptions -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/camera_calibration.cpp.o -c /home/leon3428/dev/VisualOdometry/app/src/main/cpp/camera_calibration.cpp",
+  "file": "/home/leon3428/dev/VisualOdometry/app/src/main/cpp/camera_calibration.cpp"
+},
+
+{
+  "directory": "/home/leon3428/dev/VisualOdometry/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/leon3428/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android26 --gcc-toolchain=/home/leon3428/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/leon3428/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dnative_lib_EXPORTS -I/home/leon3428/dev/OpenCV-android-sdk/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -frtti -fexceptions -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/utils.cpp.o -c /home/leon3428/dev/VisualOdometry/app/src/main/cpp/utils.cpp",
+  "file": "/home/leon3428/dev/VisualOdometry/app/src/main/cpp/utils.cpp"
+},
+
+{
+  "directory": "/home/leon3428/dev/VisualOdometry/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/leon3428/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android26 --gcc-toolchain=/home/leon3428/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/leon3428/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dnative_lib_EXPORTS -I/home/leon3428/dev/OpenCV-android-sdk/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -frtti -fexceptions -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/odometry.cpp.o -c /home/leon3428/dev/VisualOdometry/app/src/main/cpp/odometry.cpp",
+  "file": "/home/leon3428/dev/VisualOdometry/app/src/main/cpp/odometry.cpp"
+}
+]

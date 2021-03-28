@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:keepScreenOn="true"
+    >
+
+    <SurfaceView
+        android:layout_width="1280px"
+        android:layout_height="960px"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="100px"
+        android:id="@+id/cameraPreview"
+        />
+
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/cameraPreview"
+        android:layout_alignBottom="@id/cameraPreview"
+        android:layout_marginLeft="20dp"
+        >
+
+        <SurfaceView
+            android:layout_width="360px"
+            android:layout_height="360px"
+            android:id="@+id/odometryPreview"
+            />
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/checkbox"
+            android:layout_below="@+id/odometryPreview"
+            android:text="Undistort"
+            android:textSize="15dp"
+            android:onClick="onCheckboxClicked"
+            android:checked="true"
+            />
+
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="40dp"
+            android:layout_below="@+id/checkbox"
+            android:text="Clear Points"
+            android:id="@+id/btnClear"
+            android:onClick="onBtnClearClick"
+            />
+
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="40dp"
+            android:layout_below="@+id/btnClear"
+            android:text="calibration"
+            android:id="@+id/btnCalibration"
+            />
+
+    </RelativeLayout>
+
+
+
+
+
+
+</RelativeLayout>

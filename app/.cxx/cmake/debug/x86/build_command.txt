@@ -1,0 +1,23 @@
+                Executable : /home/leon3428/Android/Sdk/cmake/3.10.2.4988404/bin/cmake
+arguments : 
+-H/home/leon3428/dev/VisualOdometry/app/src/main/cpp
+-DCMAKE_CXX_FLAGS=-std=c++17 -frtti -fexceptions
+-DCMAKE_FIND_ROOT_PATH=/home/leon3428/dev/VisualOdometry/app/.cxx/cmake/debug/prefab/x86/prefab
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_TOOLCHAIN_FILE=/home/leon3428/Android/Sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake
+-DANDROID_ABI=x86
+-DANDROID_NDK=/home/leon3428/Android/Sdk/ndk/21.1.6352462
+-DANDROID_PLATFORM=android-26
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DCMAKE_ANDROID_NDK=/home/leon3428/Android/Sdk/ndk/21.1.6352462
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/home/leon3428/dev/VisualOdometry/app/build/intermediates/cmake/debug/obj/x86
+-DCMAKE_MAKE_PROGRAM=/home/leon3428/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_SYSTEM_VERSION=26
+-DOpenCV_DIR=/home/leon3428/dev/OpenCV-android-sdk/sdk/native
+-B/home/leon3428/dev/VisualOdometry/app/.cxx/cmake/debug/x86
+-GNinja
+jvmArgs : 
+
+Build command args:

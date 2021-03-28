@@ -1,0 +1,23 @@
+# ninja log v5
+1	1344	1616586267	CMakeFiles/native-lib.dir/interfaces.cpp.o	1484e29189e12d7a
+0	1366	1616586267	CMakeFiles/native-lib.dir/utils.cpp.o	5655062b072b2f85
+1	1487	1616586267	CMakeFiles/native-lib.dir/native-lib.cpp.o	13aa8109c3a1f089
+1	1568	1616586267	CMakeFiles/native-lib.dir/camera_manager.cpp.o	2a617444e3545429
+2	1763	1616586267	CMakeFiles/native-lib.dir/camera_calibration.cpp.o	94b571e511e969be
+1	1780	1616586267	CMakeFiles/native-lib.dir/calibration_jni.cpp.o	4f8c1faf1ecd2cec
+5	1809	1616586267	CMakeFiles/native-lib.dir/odometry.cpp.o	b5114fe73ea95506
+1	1809	1616586267	CMakeFiles/native-lib.dir/camera_preview.cpp.o	f7d96a6ac0197513
+1810	1905	1616586267	/home/leon3428/dev/VisualOdometry/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	9eb158c14d18a1af
+1	917	1616603454	CMakeFiles/native-lib.dir/calibration_jni.cpp.o	4f8c1faf1ecd2cec
+1	931	1616603454	CMakeFiles/native-lib.dir/odometry.cpp.o	b5114fe73ea95506
+0	951	1616603454	CMakeFiles/native-lib.dir/camera_manager.cpp.o	2a617444e3545429
+1	1048	1616603454	CMakeFiles/native-lib.dir/camera_calibration.cpp.o	94b571e511e969be
+1048	1163	1616603454	/home/leon3428/dev/VisualOdometry/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	9eb158c14d18a1af
+2	853	1616681760	CMakeFiles/native-lib.dir/native-lib.cpp.o	13aa8109c3a1f089
+2	943	1616681760	CMakeFiles/native-lib.dir/camera_manager.cpp.o	2a617444e3545429
+2	1060	1616681760	CMakeFiles/native-lib.dir/camera_calibration.cpp.o	94b571e511e969be
+3	1083	1616681760	CMakeFiles/native-lib.dir/odometry.cpp.o	b5114fe73ea95506
+1083	1199	1616681760	/home/leon3428/dev/VisualOdometry/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	9eb158c14d18a1af
+2	860	1616751165	CMakeFiles/native-lib.dir/native-lib.cpp.o	13aa8109c3a1f089
+2	991	1616751165	CMakeFiles/native-lib.dir/odometry.cpp.o	b5114fe73ea95506
+991	1114	1616751165	/home/leon3428/dev/VisualOdometry/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	9eb158c14d18a1af

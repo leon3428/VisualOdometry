@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CalibrationActivity"
+    android:keepScreenOn="true"
+    >
+
+    <SurfaceView
+        android:layout_width="1280px"
+        android:layout_height="960px"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="30dp"
+        android:id="@+id/calibCameraPreview"
+        />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/calibCameraPreview"
+        android:layout_toRightOf="@+id/calibCameraPreview"
+        android:layout_marginLeft="20dp"
+        >
+        <EditText
+            android:layout_width="150dp"
+            android:layout_height="40dp"
+            android:hint="length in cm"
+            android:id="@+id/squareSideLength"
+            />
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="40dp"
+            android:text="calibrate"
+            android:layout_below="@+id/squareSideLength"
+            android:id="@+id/btnCalibrate"
+            />
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="40dp"
+            android:text="clear images"
+            android:layout_below="@+id/btnCalibrate"
+            android:id="@+id/btnClear"
+            />
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="40dp"
+            android:layout_below="@+id/btnClear"
+            android:text="close"
+            android:id="@+id/btnClose"
+            />
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:text="#Images: 0"
+        android:layout_alignTop="@+id/calibCameraPreview"
+        android:layout_toRightOf="@+id/calibCameraPreview"
+        android:layout_marginLeft="20dp"
+        android:textSize="20dp"
+        android:id="@+id/nimages"
+        />
+
+</RelativeLayout>

@@ -1,0 +1,7 @@
+CMake Warning (dev) at /home/leon3428/dev/VisualOdometry/app/src/main/cpp/CMakeLists.txt:11 (add_library):
+  ADD_LIBRARY called with SHARED option but the target platform does not
+  support dynamic linking.  Building a STATIC library instead.  This may lead
+  to problems.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+Configuring done
